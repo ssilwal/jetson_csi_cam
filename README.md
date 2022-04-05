@@ -68,6 +68,8 @@ source ~/.bashrc
 ```
 
 At this point everything should be ready to go.
+If you run into build errors, or other issues it is possible you may be missing other libraries or dependencies:
+```sudo apt-get install ros-melodic-image-pipeline ros-melodic-rqt-image-viewe```
 
 ---
 
